@@ -1,5 +1,5 @@
 # python-project
-this is a small python project i made which works like a simple calculator.this shows a menu and user can choose what operation they want to do.i have made this project by using user defined functions so it becomes easier to understand.
+this is a small python project i made which works like a simple calculator.this shows a menu and user can choose what operation they want to do.i have made this project by using user defined functions so it  becomes easier to understand.
 
 ##FEATURES
 -Addition
