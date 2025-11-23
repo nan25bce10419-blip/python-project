@@ -1,6 +1,3 @@
-<img width="625" height="454" alt="Screenshot 2025-11-23 233431" src="https://github.com/user-attachments/assets/467e4564-b962-49d3-8278-fb3dc42d038e" />
-<img width="629" height="690" alt="Screenshot 2025-11-23 233341" src="https://github.com/user-attachments/assets/9d6512ec-ae59-41b3-94db-044e15829fcd" />
-<img width="756" height="925" alt="Screenshot 2025-11-23 233325" src="https://github.com/user-attachments/assets/d449b292-801b-4d66-9c12-4c56c68c13b8" />
 # python-project
 this is a small python project i made which works like a simple calculator.this shows a menu and user can choose what operation they want to do.i have made this project by using user defined functions so it  becomes easier to understand.
 
@@ -25,6 +22,9 @@ the program keep showing the menu in loop.When the user enters the choice,the pr
 -Install python on your system
 -open the file in any terminal
 -run the file
+<img width="756" height="925" alt="Screenshot 2025-11-23 233325" src="https://github.com/user-attachments/assets/4f3e9c9e-cb16-4fa2-a92c-a1fd20466f24" />
+<img width="629" height="690" alt="Screenshot 2025-11-23 233341" src="https://github.com/user-attachments/assets/50f47734-bd9f-4346-a7c7-95c0e3686ca3" />
+<img width="625" height="454" alt="Screenshot 2025-11-23 233431" src="https://github.com/user-attachments/assets/a78f06fe-b814-444c-bd34-d33db1d87ff4" />
 
 
 
